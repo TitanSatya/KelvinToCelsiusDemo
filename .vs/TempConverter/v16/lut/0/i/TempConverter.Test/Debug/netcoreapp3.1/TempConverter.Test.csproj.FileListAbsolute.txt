@@ -1,0 +1,14 @@
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.ConsoleApp.exe
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.deps.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.runtimeconfig.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.runtimeconfig.dev.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\b\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.AssemblyInfoInputs.cache
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.AssemblyInfo.cs
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.csproj.CopyComplete
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.genruntimeconfig.cache
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\.vs\TempConverter\v16\lut\0\i\TempConverter.Test\Debug\netcoreapp3.1\TempConverter.Test.csprojAssemblyReference.cache

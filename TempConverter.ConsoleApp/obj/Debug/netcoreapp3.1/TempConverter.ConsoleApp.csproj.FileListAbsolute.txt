@@ -1,0 +1,13 @@
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.exe
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.deps.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.runtimeconfig.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.runtimeconfig.dev.json
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\bin\Debug\netcoreapp3.1\TempConverter.ConsoleApp.pdb
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.AssemblyInfo.cs
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.dll
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.pdb
+C:\Users\satyaranjanbiswal\source\repos\TempConverter\TempConverter.ConsoleApp\obj\Debug\netcoreapp3.1\TempConverter.ConsoleApp.genruntimeconfig.cache
